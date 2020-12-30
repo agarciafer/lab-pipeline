@@ -2,7 +2,7 @@
 
 
 ## Información
-Este repositorio incluye la aplicación de ejemplo y la configuración el pipeline de Jenkis..
+Este repositorio incluye la aplicación de ejemplo y la configuración el pipeline de Jenkis.
 
 ## Contenido del Lab
 
